@@ -35,7 +35,7 @@ StudySync+ solves this by offering a structured task manager and daily motivatio
 
 | Layer | Stack |
 |-------|--------|
-| Frontend | React, React Router, Axios |
+| Frontend | React, React Router, Fetch API |
 | Backend | Node.js, Express |
 | Database | PostgreSQL (hosted on Neon) |
 | External API | ZenQuotes API |
